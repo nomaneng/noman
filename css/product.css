@@ -1,0 +1,151 @@
+.navbar{
+	padding: 0;
+	margin: 0;
+	background: #fff;
+	height: 60px;
+	width: 100%
+
+}
+.tir{
+	list-style-type:none;
+	position:fixed;
+	right:0;
+	top:87%;		
+}
+.tir img{
+	height: 90px;
+	width: 70px;
+}
+.link{
+	margin-left: 300px;
+	margin-top: -30px;
+}
+.link li{
+	display: inline;
+	margin-left: 20px;
+}
+.link li a{
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+}
+.btn{
+	float: right;
+	margin-top: -20px;
+}
+.input{
+	float: right;
+	margin-top: -20px;
+	width: 70px;
+	height: 20px;
+	background: transparent;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+}
+.input:hover{
+	width: 210px;
+	height: 20px;
+	background: transparent;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	border-bottom: 1px solid #F3EDEE;
+	transition: 0.7s all ease;
+
+}
+.img{
+	height: 700px;
+	width: 100%
+
+}
+.p1{
+	font-size: 60px;
+	margin-left: 510px;
+	margin-top: -640px;
+	color: #fff;
+}
+.header{
+	text-align: center;
+	font-size: 20px;
+	margin: auto;
+	height: 150px;
+	width: 700px;
+	margin-top: 650px;
+}
+.picture{
+	height: 300px;
+	width: 300px;
+	float: right;
+	margin-right: 100px;
+	text-align: center;
+	margin-top: 100px;
+
+}
+.picture .bb{
+	margin-top: -250px;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	color: #16F14E;
+	font-size: 30px;
+	display: none;
+	text-decoration: none;
+}
+.picture p .nn{
+	margin-top: 200px;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+.picture:hover .bb{
+	display: block;
+}
+.picture:hover{
+	background: #C6F697;
+	height: 300px;
+	border-radius: 6px 6px;
+	transition: .5s all ease;
+
+}
+.picture h3{
+	margin-top: 7px;
+}
+.picture img{
+	height: 270px;
+	width: 300px;
+	border-radius: 10px 10px;
+	
+}
+.picture1{
+	height: 300px;
+	width: 100%;
+	background: #111;
+	display: inline-block;
+	margin-top: 100px;
+}
+.footers{
+	margin-top: 90px;
+	display: inline-block;
+	height: 400px;
+	width: 100%;
+}
+.footers table{
+	float: right;
+	margin-right: 130px;
+	margin-top: 100px;
+	font-size:	17px;
+}
+.footers p{
+	margin-left: 90px;
+	margin-top: 10px;
+	color: #A4A49C;
+}
+.footers h2{
+	margin-left: 90px;
+	margin-top: 120px;
+}
+.footers span{
+	display: inline-block;
+	margin-top: 80px;
+	margin-left: 700px;
+}
